@@ -1,0 +1,21 @@
+package com.example.singlescreenapp
+
+import android.os.Build
+import android.os.Bundle
+import androidx.annotation.RequiresApi
+import androidx.appcompat.app.AppCompatActivity
+
+import java.util.Objects
+
+class MainActivity : AppCompatActivity() {
+
+    @RequiresApi(api = Build.VERSION_CODES.KITKAT)
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+
+        //Remove title bar
+        //Objects.requireNonNull<ActionBar>(this.supportActionBar).hide()
+
+        setContentView(R.layout.activity_main)
+    }
+}
