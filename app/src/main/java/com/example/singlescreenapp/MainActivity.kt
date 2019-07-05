@@ -5,8 +5,6 @@ import android.os.Bundle
 import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatActivity
 
-import java.util.Objects
-
 class MainActivity : AppCompatActivity() {
 
     @RequiresApi(api = Build.VERSION_CODES.KITKAT)
