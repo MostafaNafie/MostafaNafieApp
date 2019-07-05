@@ -75,7 +75,7 @@
                 style="@style/Section_Title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="About Me" />
+                android:text="@string/about_title" />
 
             <TextView
                 android:id="@+id/text_view_about_content"
@@ -91,7 +91,7 @@
                 style="@style/Section_Title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Education" />
+                android:text="@string/education_title" />
 
             <TextView
                 android:id="@+id/text_view_education_content"
@@ -107,7 +107,7 @@
                 style="@style/Section_Title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Skills" />
+                android:text="@string/skills_title" />
 
             <TextView
                 android:id="@+id/text_view_skills_content"
@@ -119,18 +119,18 @@
             <View style="@style/Divider" />
 
             <TextView
-                android:id="@+id/text_view_hobbies"
+                android:id="@+id/text_view_interests"
                 style="@style/Section_Title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Interests" />
+                android:text="@string/interests_title" />
 
             <TextView
-                android:id="@+id/text_view_hobbies_content"
+                android:id="@+id/text_view_interests_content"
                 style="@style/Section_Content"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/hobbies_content" />
+                android:text="@string/interests_content" />
 
             <View style="@style/Divider" />
 
@@ -139,7 +139,7 @@
                 style="@style/Section_Title"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Contact Me" />
+                android:text="@string/contact_title" />
 
             <TextView
                 android:id="@+id/text_view_contacts_content"

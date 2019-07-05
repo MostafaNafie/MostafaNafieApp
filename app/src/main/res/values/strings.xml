@@ -7,6 +7,14 @@
 
     <string name="location">Cairo, Egypt</string>
 
+    <!-- Sections Titles -->
+    <string name="about_title">About Me</string>
+    <string name="education_title">Education</string>
+    <string name="skills_title">Skills</string>
+    <string name="interests_title">Interests</string>
+    <string name="contact_title">Contact Me</string>
+
+    <!--- Sections Contents -->
     <string name="about_content">I have always been fascinated by software development from the age of 14, I have been coding since then using Visual Basic, Python, Java, HTML and CSS. And I love mobile phones too.
         \nThis is a great opportunity to kickstart my career in Mobile App Development combining the two things that I am passionate about.</string>
 
@@ -16,7 +24,7 @@
         \nWeb Stack – JavaScript, HTML and CSS
         \nOthers – Python and C</string>
 
-    <string name="hobbies_content">I have a blue belt in Karate, a brown one in Judo, did swimming and Kung-Fu.
+    <string name="interests_content">I have a blue belt in Karate, a brown one in Judo, did swimming and Kung-Fu.
     \nAlso interested in history and psychology.</string>
 
     <string name="contacts_content">• (+2) 0111-990-42-40
