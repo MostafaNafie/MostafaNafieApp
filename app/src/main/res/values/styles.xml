@@ -19,26 +19,26 @@
 
     <!-- Main Title -->
     <style name="Main_Title">
-        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColor">@color/white</item>
         <item name="android:textSize">20sp</item>
         <item name="android:textStyle">bold</item>
     </style>
 
     <!-- Secondary Title -->
     <style name="Secondary_Title">
-        <item name="android:textColor">#C0C0C0</item>
+        <item name="android:textColor">@color/silver</item>
         <item name="android:textSize">16sp</item>
     </style>
 
     <!-- Section Title -->
     <style name="Section_Title">
-        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColor">@color/white</item>
         <item name="android:textSize">16sp</item>
     </style>
 
     <!-- Section Content -->
     <style name="Section_Content">
-        <item name="android:textColor">#C0C0C0</item>
+        <item name="android:textColor">@color/silver</item>
         <item name="android:textSize">14sp</item>
     </style>
 
