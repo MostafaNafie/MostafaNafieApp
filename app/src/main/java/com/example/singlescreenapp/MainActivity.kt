@@ -14,7 +14,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
 
         //Remove title bar
-        //Objects.requireNonNull<ActionBar>(this.supportActionBar).hide()
+        if (supportActionBar != null)
+            supportActionBar?.hide()
 
         setContentView(R.layout.activity_main)
     }
