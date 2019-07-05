@@ -146,7 +146,9 @@
                 style="@style/Section_Content"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="@string/contacts_content" />
+                android:text="@string/contacts_content"
+                android:autoLink="all"
+                android:textColorLink="@color/blue"/>
         </LinearLayout>
 
 
