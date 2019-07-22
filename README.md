@@ -1,8 +1,9 @@
 # Android Basics Nanodegree by Google
-Android Basics Projects
 
-## Project 1: [Build a Single Screen App](https://github.com/MostafaNafie/MostafaNafieApp)
+## Project 1: [Build a Single Screen App](https://github.com/MostafaNafie/single-screen)
 ### Design and implement a simple app that displays information about a small business.
 The app displays information about me as a freelancer. 
 
-<img src="https://www.dropbox.com/s/dlao2s84aqhw5lz/%231%20Mostafa%20Nafie.png?raw=1" width="270">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/48848704/61653141-e9072e80-acb9-11e9-9e5f-2ceec5d717d5.gif" width="290">
+</div>
